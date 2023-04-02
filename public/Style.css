@@ -1,0 +1,6 @@
+#root {
+  width: 100%;
+  min-height: 100vh;
+  background: conic-gradient(at left bottom, rgb(17, 24, 39), rgb(75, 85, 99));
+  overflow-x: hidden;
+}
