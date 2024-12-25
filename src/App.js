@@ -1,7 +1,7 @@
 import React from "react";
 import MainPage from "./Container/MainPage";
 import Wrapper from "./Container/HOC/Wrapper";
-import "./App.css";
+ 
  
 function App() {
   return (
