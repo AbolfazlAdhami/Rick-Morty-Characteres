@@ -1,14 +1,7 @@
 import React from "react";
-import MainPage from "./Container/MainPage";
-import Wrapper from "./Container/HOC/Wrapper";
- 
- 
+
 function App() {
-  return (
-    <Wrapper>
-      <MainPage />
-    </Wrapper>
-  );
+  return <div></div>;
 }
 
 export default App;
